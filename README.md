@@ -50,9 +50,9 @@ Ricordarsi di aggiornare i riferimenti di testa e coda dove necessario.
 - [ ] print()
 - [ ] size()
 - [ ] merge()
-- [ ] slice()
+- [ ] slice() // boh non va
 - [ ] palindrome()
-- [ ] shift() // boh non va
+- [ ] shift() 
 - [ ] trim() // non l'ho fatto
 
 fine ❤️. (Fatto da [Gecky🦎](https://www.gmasiero.it) )
