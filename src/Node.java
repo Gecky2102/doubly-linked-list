@@ -39,7 +39,7 @@ public class Node {
         return "{" + letter + "}";
     }
 
-    // checks what happens when equals() is called
+    // controlla cosa succede quando equals() viene chiamata
     @Override
     public boolean equals(Object obj) {
         
